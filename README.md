@@ -1,4 +1,4 @@
-Java Error Messages Wizard - Write Good Error Message
+Java 错误码设计 Java Error Messages Wizard - Write Good Error Message
 ======================================================
 
 # Features
